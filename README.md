@@ -15,6 +15,11 @@ The CoreModule is the Fortran project. It uses the CoreModuleCommunicator librar
        Fortran                  C                         using      C#                   
                                                          ZeroMQ                           
                                                                                           
+Technologies used for this sample code are:
+- Microsoft Visual Studio 2013
+- Intel Fortran Compiler
+- ZeroMQ 4.0.4
 
+The code is mostly based on other sample code (e.g. ZeroMQ) and is nothing that is production ready!
 
 You might need to copy the two libzmq-___.dll files into the CoreModule Debug folder.
